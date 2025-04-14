@@ -16,6 +16,9 @@ This project focuses on the automated detection of plastic bottles in aerial dro
 ## Dataset
 
 - **Primary Source**: UAV Plastic Detection Dataset
+  **DATASETS are in the url format
+  **extracted them using aria2 app
+  **extracted 32 videos into frames using python script
 - **Format**: Images and CVAT-generated annotation CSV files
 - **Annotations**: Only one class - `plastic bottle`
 - **Frame Info**: 127 manually annotated frames extracted from 1700 frames across 32 drone videos
